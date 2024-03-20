@@ -20,7 +20,7 @@ QRcode = qrcode.QRCode(
 )
 
 # taking url or text
-url = 'www.kevv.vercel.app'
+url = 'www.iaeste.org'
 
 # adding URL or text to QRcode
 QRcode.add_data(url)
